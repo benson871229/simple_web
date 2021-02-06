@@ -1,1 +1,1 @@
-web gunicorn superoil:app
+web gunicorn web:app
